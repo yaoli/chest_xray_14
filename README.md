@@ -1,7 +1,7 @@
-|abnormality        |[1]    |[1]    |[2]    |[3]      |[4]   |[7]   |[9]    |
+|                   |[1]    |[1]    |[2]    |[3]      |[4]   |[7]   |[9]    |
 |-------------------|-------|------ |-------|---------|------|------|------ |
 |SPLIT BY           |patient|image  |image  |patient  |image |image |image  |
-|Offiical Split     |Yes    |No     |No     |No       |No    |No    |No     |
+|OFFICIAL SPLIT     |Yes    |No     |No     |No       |No    |No    |No     |
 |Atelectasis        |0.7003 |0.72   |0.81   |0.772    |0.80  |0.76  |0.853  |
 |Cardiomegaly       |0.8100 |0.81   |0.904  |0.9248   |0.81  |0.91  |0.939  |
 |Effusion           |0.7585 |0.78   |0.859  |0.8638   |0.87  |0.86  |0.903  |
