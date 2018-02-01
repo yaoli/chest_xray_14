@@ -1,4 +1,4 @@
-|                   |[1]    |[1]    |[2]    |[3]      |[4]   |[7]   |[9]    |
+|                   |[1]    |[1]    |[2]    |[3]      |[4]   |[7]   |[8]    |
 |-------------------|-------|------ |-------|---------|------|------|------ |
 |SPLIT BY           |patient|image  |image  |patient  |image |image |image  |
 |OFFICIAL SPLIT     |Yes    |No     |No     |No       |No    |No    |No     |
