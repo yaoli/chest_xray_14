@@ -20,6 +20,8 @@ Split by image: This repo contains the splits of train, valid and test.
 
 Split by patient: Please be aware that the official splits by patient are only recently available [here](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
+Please contribute to the following list:
+
 [1] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.02315)
 
 [2] [Learning to diagnose from scratch by exploiting dependencies among labels](https://arxiv.org/abs/1710.10501)
