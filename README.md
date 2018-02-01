@@ -24,3 +24,15 @@ Split by patient: Please be aware that the official splits by patient are only r
 
 [2] [Learning to diagnose from scratch by exploiting dependencies among labels](https://arxiv.org/abs/1710.10501)
 
+[3] [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/abs/1711.05225)
+
+[4] [Thoracic Disease Identification and Localization with Limited Supervision](https://arxiv.org/abs/1711.06373)
+
+[5] [Learning to detect chest radiographs containing lung nodules using visual attention networks](https://arxiv.org/abs/1712.00996)
+
+[6] [TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays](https://arxiv.org/abs/1801.04334)
+
+[7] [Boosted Cascaded Convnets for Multilabel Classification of Thoracic Diseases in Chest Radiographs](https://arxiv.org/abs/1711.08760)
+
+[8] [Diagnose like a Radiologist: Attention Guided Convolutional Neural Network for Thorax Disease Classification](https://arxiv.org/abs/1801.09927)
+
